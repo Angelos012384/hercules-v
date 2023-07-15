@@ -1,0 +1,17 @@
+.navlogo{
+    width: 40%;
+    height: 40%;
+}
+.ships-img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.btn-ship{
+    margin-top: 5%;
+}
+h3{
+
+    text-align: center;
+}
